@@ -81,6 +81,10 @@ Here are some ideas to get you started:
 
 <br/>  
 
+### Go check my only public repo (for now) 😎👉 [Traefik 2 Configuration](https://lbarbaglia.github.io/traefik2-config/)
+
+<br/>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/lbarbaglia" target="_blank">
